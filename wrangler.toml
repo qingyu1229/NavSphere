@@ -11,5 +11,5 @@ GITHUB_OWNER = "qingyu1229"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navsphere-f2h.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-f2h.pages.dev"
+NEXT_PUBLIC_API_URL="https://navsphere-f2h.pages.dev/"
 
