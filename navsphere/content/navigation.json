@@ -394,6 +394,14 @@
               "description": "免费的React / Next.js着陆页模板旨在展示开源项目，SaaS产品，在线服务等",
               "icon": "https://avatars.githubusercontent.com/u/63243128?s=48&v=4",
               "enabled": true
+            },
+            {
+              "id": "site_1754031506354_joyixa68a",
+              "title": "saas-starter-kit",
+              "href": "https://github.com/boxyhq/saas-starter-kit",
+              "description": "SaaS入门套件 - 使用Next.js SaaS样板启动您的企业应用程序开发",
+              "icon": "https://avatars.githubusercontent.com/u/79375216?s=48&v=4",
+              "enabled": true
             }
           ]
         }
