@@ -355,6 +355,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "145f5d2c-cc8f-490b-9a68-b7711519ecb3",
+          "title": "SaaS开发工具包",
+          "icon": "Flag",
+          "description": "SaaS开发工具包",
+          "enabled": true,
+          "items": []
         }
       ]
     },
