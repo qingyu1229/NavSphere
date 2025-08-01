@@ -378,6 +378,14 @@
               "description": "Cloudflare Workers/Next.js SaaS Template",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754031044728_v38bkt19a",
+              "title": "ShipFree",
+              "href": "https://github.com/Idee8/ShipFree",
+              "description": "Open Source Next.js Saas Boilerplate Alternative to ShipFast",
+              "icon": "https://avatars.githubusercontent.com/u/196439373?s=48&v=4",
+              "enabled": true
             }
           ]
         }
