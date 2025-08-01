@@ -402,6 +402,14 @@
               "description": "SaaS入门套件 - 使用Next.js SaaS样板启动您的企业应用程序开发",
               "icon": "https://avatars.githubusercontent.com/u/79375216?s=48&v=4",
               "enabled": true
+            },
+            {
+              "id": "site_1754031674017_blwms8kc3",
+              "title": "saas-starter",
+              "href": "https://github.com/nextjs/saas-starter?tab=readme-ov-file",
+              "description": "快速开始使用Next.js，Postgres，Stripe和ShadCN/UI。",
+              "icon": "https://avatars.githubusercontent.com/u/126103961?s=48&v=4",
+              "enabled": true
             }
           ]
         }
