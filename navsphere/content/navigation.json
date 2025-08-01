@@ -370,6 +370,14 @@
               "description": "SaaS样板是一个功能强大且完全可定制的模板，可启动您的SaaS应用程序。由Next.js和Tailwind CSS以及ShadCN UI的模块化UI组件构建。 Next.js SaaS模板可帮助您以最少的精力快速构建和启动SaaS。",
               "icon": "/assets/img_1754030303628.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754030883177_frwnlr9lu",
+              "title": "cloudflare-workers-nextjs-saas-template",
+              "href": "https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template",
+              "description": "Cloudflare Workers/Next.js SaaS Template",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
