@@ -362,7 +362,16 @@
           "icon": "Flag",
           "description": "SaaS开发工具包",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754029616069_h1vs9f0u0",
+              "title": "SaaS-Boilerplate",
+              "href": "https://github.com/ixartz/SaaS-Boilerplate",
+              "description": "SaaS样板是一个功能强大且完全可定制的模板，可启动您的SaaS应用程序。由Next.js和Tailwind CSS以及ShadCN UI的模块化UI组件构建。 Next.js SaaS模板可帮助您以最少的精力快速构建和启动SaaS。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
