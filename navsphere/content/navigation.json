@@ -386,6 +386,14 @@
               "description": "Open Source Next.js Saas Boilerplate Alternative to ShipFast",
               "icon": "https://avatars.githubusercontent.com/u/196439373?s=48&v=4",
               "enabled": true
+            },
+            {
+              "id": "site_1754031299329_abg9jfyic",
+              "title": "open-react-template",
+              "href": "https://github.com/cruip/open-react-template?tab=readme-ov-file",
+              "description": "免费的React / Next.js着陆页模板旨在展示开源项目，SaaS产品，在线服务等",
+              "icon": "https://avatars.githubusercontent.com/u/63243128?s=48&v=4",
+              "enabled": true
             }
           ]
         }
