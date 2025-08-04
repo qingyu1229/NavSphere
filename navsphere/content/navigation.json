@@ -418,6 +418,14 @@
               "description": "一个现代化的全栈 SaaS 应用程序，基于 Next.js 15 构建，集成了身份验证、支付、文件管理和国际化功能，并配备了全面的测试套件。",
               "icon": "https://avatars.githubusercontent.com/u/8398907?s=48&v=4",
               "enabled": true
+            },
+            {
+              "id": "site_1754276402369_yb4h7i2o1",
+              "title": "BillionMail",
+              "href": "https://github.com/aaPanel/BillionMail/blob/dev/README-zh_CN.md",
+              "description": "一个开源的邮件服务器，为智能营销提供电子邮件解决方案",
+              "icon": "https://avatars.githubusercontent.com/u/31841517?s=48&v=4",
+              "enabled": true
             }
           ]
         }
