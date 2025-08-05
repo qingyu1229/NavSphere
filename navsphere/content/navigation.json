@@ -189,7 +189,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754361412275_lj3mo1j0o",
+          "title": "3x-ui",
+          "href": "https://github.com/MHSanaei/3x-ui/tree/main",
+          "description": "一个基于网页的高级开源控制面板，专为管理 Xray-core 服务器而设计。它提供了用户友好的界面，用于配置和监控各种 VPN 和代理协议。",
+          "icon": "https://avatars.githubusercontent.com/u/33454419?s=48&v=4",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
