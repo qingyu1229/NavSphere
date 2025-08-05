@@ -437,6 +437,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "20027703-82af-4d97-a90a-120c0093329a",
+          "title": "VPN",
+          "icon": "Zap",
+          "description": "VPN",
+          "enabled": true,
+          "items": []
         }
       ]
     },
